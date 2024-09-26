@@ -19,7 +19,27 @@
         "specialists", "especialistas", "personalizado", "customized", "personalizado", 
         "escultor", "sculptor", "escultor" , "cirurgias" , "surgeries" , "cirugías" , 
         "Healthcare" , "dermatologia", "dermatology", "dermatología", "emagrecimento", "weight loss",
-        "perdida de peso"
-    
+        "perdida de peso", 
+        "tratamento a laser", "laser treatment", "tratamiento con láser",
+        "hidratação", "hydration", "hidratación",
+        "esfoliação", "exfoliation", "exfoliación",
+        "radiofrequência", "radiofrequency", "radiofrecuencia",
+        "lipólise", "lipolysis", "lipólisis",
+        "lipossucção", "liposuction", "liposucción",
+        "crioterapia", "cryotherapy", "crioterapia",
+        "peeling", "peeling", "peeling",
+        "tratamento facial", "facial treatment", "tratamiento facial",
+        "massagem", "massage", "masaje",
+        "spa", "spa", "spa",
+        "terapia capilar", "hair therapy", "terapia capilar",
+        "anti-envelhecimento", "anti-aging", "antienvejecimiento",
+        "clareamento", "whitening", "blanqueamiento",
+        "ácido hialurônico", "hyaluronic acid", "ácido hialurónico",
+        "enxerto de gordura", "fat grafting", "injerto de grasa",
+        "prp", "plasma rico em plaquetas", "platelet rich plasma", "plasma rico en plaquetas",
+        "lifting facial", "facelift", "lifting facial",
+        "toxina botulínica", "botulinum toxin", "toxina botulínica",
+        "tratamento capilar", "hair treatment", "tratamiento capilar"
     ]
 }
+
