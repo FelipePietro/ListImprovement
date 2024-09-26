@@ -7,7 +7,8 @@ Como o programa funciona? Quando iniciado, ele abre uma janela feita com Tkinter
 
 "Username", "Phone number", "Phone country code", "Public email", "City", "External url" e "Biography".
 
-**Se quiser utilizar o programa, sugiro que utilize esta extensão para fazer a raspagem:** https://chromewebstore.google.com/detail/growman-extrator-de-e-mai/hndnabgpcmhdmaejoapophbidipmgnpb
+**Se quiser utilizar o programa, sugiro que utilize esta extensão para fazer o scraping:** 
+https://chromewebstore.google.com/detail/growman-extrator-de-e-mai/hndnabgpcmhdmaejoapophbidipmgnpb
 
 Após selecionar a planilha, ele executará o código, que filtrará a coluna "Biography" para manter somente os perfis que contenham as palavras-chaves contidas no arquivo "keywords.json", que fazem referencia a clínicas de estética ou medicina estética em geral, após essa filtragem, ele vai separar a planilha em dois arquivos, um arquivo "bruto", sem nenhum tipo de formatação, e outro arquivo formatado conforme as necessidades, que são separar os leads por região, Contatos do Brasil, Portugal, Espanha, Sem Número e do resto do Mundo, oque facilita o disparo de mensagens posteriormente. 
 
