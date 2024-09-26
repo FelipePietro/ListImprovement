@@ -1,5 +1,5 @@
 # ListImprovement
-Este é um projeto que eu desenvolvi para me auxiliar em uma tarefa do trabalho que demandava muito tempo, filtar e organizar planilhas de Instagram scraping (Raspagem de dados de usúariso do Instragram, como e-mail, número de telefone, localidade, biografia do perfil etc.)
+Este é um projeto que eu desenvolvi para me auxiliar em uma tarefa do trabalho que demandava muito tempo, filtrar e organizar planilhas de Instagram scraping (Raspagem de dados de usúariso do Instragram, como e-mail, número de telefone, localidade, biografia do perfil etc.)
 
 O programa é bem simples, eu usei o RE para conseguir encontrar as palavras-chaves que identificavam se os perfis eram ou não clínicas, utilizei o Pandas para manipular as planilhas e formatar elas pra otimizar ainda mais meu trabalho e agora recentemente utilizei o Tkinter para criar uma interface muito muito simples apenas para uso pessoal.
 
